@@ -4,6 +4,8 @@ This is a simple website project for showing how to use Git and Github together
 
 Adding a line for the Rebase example
 
+more changes from myfeature branch
+
 ## Introduction
 
 This example is to show different parts of the Git repository and various
