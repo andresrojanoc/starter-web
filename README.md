@@ -6,6 +6,8 @@ Adding a line for the Rebase example
 
 more changes from myfeature branch
 
+Update a line after stash
+
 ## Introduction
 
 This example is to show different parts of the Git repository and various
