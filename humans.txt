@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Andres -- andresrojano@udec.cl -- andresrojanoc
 
 # THANKS
 
