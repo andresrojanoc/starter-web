@@ -8,6 +8,8 @@ more changes from myfeature branch
 
 Update a line after stash
 
+Hola
+
 ## Introduction
 
 This example is to show different parts of the Git repository and various
@@ -20,13 +22,13 @@ demos.
 
 ## Deployment
 
-This is a simple web project, deployment can be on any web server or even local 
+This is a simple web project, deployment can be on any web server or even local
 file system.
 
 ## How To Contribute
 
 Please fork this repository and then issue Pull Requests for review.
 
-### Copyright 
+### Copyright
 
 2021 Git.Training. All rights reserved
